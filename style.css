@@ -1,0 +1,39 @@
+body{
+    height:100vh;
+    margin:0;
+    font-family:Arial;
+}
+
+.task{
+    position:absolute;
+    padding:20px;
+    background:#f4f4f4;
+    border-radius:10px;
+    box-shadow:0 5px 10px rgba(0,0,0,0.2);
+}
+
+.top-left{
+    top:20px;
+    left:20px;
+}
+
+.top-right{
+    top:20px;
+    right:20px;
+}
+
+.bottom-left{
+    bottom:20px;
+    left:20px;
+}
+
+.bottom-right{
+    bottom:20px;
+    right:20px;
+}
+
+#box{
+    width:150px;
+    height:150px;
+    background:grey;
+}
